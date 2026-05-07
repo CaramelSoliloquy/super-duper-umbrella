@@ -4,5 +4,10 @@ hihihhihihihi
 yooo
 -Jiayi
 
+<<<<<<< HEAD
 Its 4pm now
 -Jiayi
+=======
+gato
+-Nathalie
+>>>>>>> ac3f4d1467646d08ed59200e9f4a524ce95b1746
